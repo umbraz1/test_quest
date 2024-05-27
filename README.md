@@ -5,7 +5,10 @@
 Ответы на вопросы будут находится тут,
 а как файлы я выложу:
 - Dockerfile для сборки Syscoin
-- Скрипт сравнения с двух Api в 2 файла (python/bash)
+- Скрипт сравнения с двух Api в двух файлах:
+  
+[Python script version](https://github.com/umbraz1/test_quest/blob/main/import%20requests.py)
+[Bash cript version]
 <h1 align="center">Теоретическая часть</h1>
 
 <h3>1)Контейнер рестартится, логов нет, так как не успевает писать. Что будешь делать?</h3>
